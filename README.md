@@ -15,3 +15,5 @@
 - 📫 How to reach me **jakub.olan001@gmail.com**
 
 - ⚡ Fun fact **Addicted to Caffeine, ~adderall~, nicotine and programming.**
+
+I'm working on my blog which is available at [ziqiln.vercel.app](https://ziqiln.vercel.app)
