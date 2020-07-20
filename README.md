@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on **some OSS projects**
 
+- 🎓 I'm currently learning **Clean Code and Software Architecture in TypeScript**
+
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ZiQiLN) and [Dribbble](https://dribbble.com/ZiQiLN)
 
 - 💬 Ask me about **Node.js, TypeScript or Microservices**
