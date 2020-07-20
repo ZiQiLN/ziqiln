@@ -1,7 +1,7 @@
 ---
 title: Build personal Devlog as everybody does.
 author: Jakub Olan
-date: 2019-04-30
+date: 2020-07-21
 hero: ./images/hero.jpg
 excerpt: Short useless story about building my own blog (that one), for publishing some no-sense ideas, experiments and other shit related to development.
 ---
