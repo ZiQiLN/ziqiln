@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://ziqiln.vercel.sh`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Ziqi's Personal Devlog`,
+      heading: `Jay's personal devlog related to software, architecture and startups.`,
       maxWidth: 652
     },
     social: [
