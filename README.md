@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">A passionate software developer from Poland</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ziqiln" alt="ziqiln" /> </p>
+## Hi 👋, Jay here!
+
+Passionate developer from **Poland** working on OSS Projects.
 
 - 🔭 I’m currently working on [aeropods](https://github.com/araclx/aeropods)
 
@@ -19,3 +19,5 @@
 - ⚡ Fun fact v1.1 **I just hate AWS, GCP for the win.**
 
 I'm working on my blog which is available at [ziqiln.vercel.app](https://ziqiln.vercel.app)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziqiln" alt="ziqiln" /> </p>
