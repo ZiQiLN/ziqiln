@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **jakub.olan001@gmail.com**
 
-- ⚡ Fun fact **Addicted to Caffeine, ~adderall~, nicotine and programming.**
+- ⚡ Fun fact v1.0 **Addicted to Caffeine, ~adderall~, nicotine and programming.**
+
+- ⚡ Fun fact v1.1 **I just hate AWS, GCP for the win.**
 
 I'm working on my blog which is available at [ziqiln.vercel.app](https://ziqiln.vercel.app)
