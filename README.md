@@ -1,6 +1,6 @@
 ### Hi, I'm Jay
 
-I don't have real life since I was 15 y.o and discovered programming with Java to build Minecraft mods, actually I'm 20 y.o and I don't have life behind programming, in job I'm Software Engineer and then when I comeback to home I'm trying to help other open-source projects and build my own projects. I'll be doing these things till' I'll end in fucking grave.
+I don't have real life since I was 15 y.o and discovered programming with Java to build Minecraft mods, actually I'm 20 y.o and I don't have life behind programming, in job I'm Software Engineer and then when I comeback to home I'm trying to help other open-source projects and build my own projects.
 
 #### The Stack
 
@@ -12,7 +12,7 @@ I don't have real life since I was 15 y.o and discovered programming with Java t
 | MQ                    | RabbitMQ                            |
 | CI/CD                 | GitHub Actions, CircleCI, Buddy     |
 
-#### The FunFacts[]
+#### The `funFacts[]`
 
 Maybe it's fun to know a little secret things about me, sharing some of them is potential bad from my side but I don't have problem with truth.
 
