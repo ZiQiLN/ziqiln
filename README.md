@@ -6,11 +6,12 @@ I don't have real life since I was 15 y.o and discovered programming with Java t
 
 | Stack                 | Tools                               |
 | :-------------------- | :---------------------------------- |
-| Programming Languages | TypeScript, Go and Rust             |
-| Front-End             | React.js w/ Mobx, styled-components |
+| Languages | **TypeScript**, Go and Rust (learning)             |
+| Front-End             | React.js, MobX, styled-components, SASS |
+| Containers and Orchestration            | Docker, Kubernetes |
 | Reverse Proxy         | Traefik, Nginx                      |
 | MQ                    | RabbitMQ                            |
-| CI/CD                 | GitHub Actions, CircleCI, Buddy     |
+| CI/CD                 | GitHub Actions, CircleCI     |
 
 #### The `funFacts[]`
 
@@ -21,14 +22,11 @@ console.log(funFacts[0]);
 > "Before I've started programming career I was day-trader then designer.";
 
 console.log(funFacts[1]);
-> "I almost went bankrupt while trading on stock market, finally I left with the cash.";
+> "I almost went bankrupt while trading on stock market in 2018.";
 
 console.log(funFacts[2]);
-> "I've destroyed two of my startups, but I'm still trying :D";
+> "I've destroyed two of my startups, but I'm still trying :D.";
 
 console.log(funFacts[3]);
-> "I hate AWS, and I think GCP is underrated.";
-
-console.log(funFacts[4]);
-> "I like consuming different things especially caffeine, theanine, adderall and nicotine because healthy life matters.";
+> "I hate AWS, GCP is underrated.";
 ```
