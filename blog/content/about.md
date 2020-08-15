@@ -1,22 +1,13 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2020-07-01"
+author = "Jakub Olan"
 +++
 
-# Hi there
+# Hi there, I'm Jay
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+Jay is 20 years old TypeScript Software Developer who started his programming adventure since 2015 when he build first Bukkit plugin for Minecraft Server. His life was some kind of crazy because there was a lot of FinTech-related things such as building algorithmic trading platform in 2017/2018. Actually he's trying to archive solid experience in software architecture, DevOps and programming in his two favourite languages - TypeScript and Go.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+Jay's TechStack is based mostly on **TypeScript** and **Express.js**/**Fastify.js** and in near time he's looking to experiment with **Deno** runtime since it provides out-of-box integration with TypeScript applications. Behind programming languages Jay is fine with message brokers like **RabbitMQ**, contenerization tools like **Docker** and orchectration with **Nomad** and **Kubernetes**.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+Actual project on which Jay is working is [@ARACLX](https://github.com/ARACLX), which will be a decentralized gateway to new dimension, that's an crazy idea but looks promising in his head. The basic part of Araclx will be platform called [Humantic](https://github.com/ARACLX/humantic) which will be decentralized application that connect people related to IT, with serval AI-based checks that will help keep social presence and authority.
