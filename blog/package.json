@@ -1,5 +1,9 @@
 {
   "name": "@ziqiln/blog",
+  "scripts": {
+    "build": "hugo",
+    "start": "hugo server"
+  },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
