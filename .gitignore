@@ -1,2 +1,5 @@
 .env
 .env.build
+.DS_Store
+node_modules
+packages/.DS_Store
