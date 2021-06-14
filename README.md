@@ -5,5 +5,3 @@
 > I'm not interested in doing deal with idiots who will tell me I'm an idiot because I don't answer questions about your fuc***** closures in JavaScript, I don't really care - just please don't waste my time.
 
 Poppin' addy as crazy.
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
