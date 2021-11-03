@@ -1,4 +1,4 @@
-### Jakub "Keinsell" Olan
+### Jay "Keinsell" Whitewood
 
 > Refer to me as Jay that's way more simple.
 
