@@ -2,6 +2,8 @@
 
 Bored Software Enginner with like 2-3 years of experience in building crap in JavaScript and TypeScript, explored pretty much JavaScript-related technologies such as `electron`, `react`, `node` and `deno`.
 
+> It’s January 2022 and I finally decided to rebuild my GitHub profile to be more suitable for recriutment because a lot of people had a problems cuz some fucking fucks somewhere at my account.
+
 ##### The JayStack
 
 Introduction to my favourite tools.
