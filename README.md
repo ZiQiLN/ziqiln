@@ -1,8 +1,8 @@
 # Jay Whitewood[^*]
 
-Bored Software Enginner with like 2-3 years of experience in building crap in JavaScript and TypeScript, explored pretty much JavaScript-related technologies such as `electron`, `react`, `node` and `deno`.
+==Bored Software Enginner== with like 2-3 years of experience in building crap in JavaScript and TypeScript, explored pretty much JavaScript-related technologies such as `electron`, `react`, `node` and `deno`.  In free time I love to deal with biohacking things combined with neuroscience, almost in same leval as donating my savings to wallstreet on stock exchange.
 
-> It’s January 2022 and I finally decided to rebuild my GitHub profile to be more suitable for recriutment because a lot of people had a problems cuz some fucking fucks somewhere at my account.
+>README.md in rebuild process.
 
 ##### The JayStack
 
