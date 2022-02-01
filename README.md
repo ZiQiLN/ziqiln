@@ -15,4 +15,6 @@ Introduction to my favourite tools.
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
+https://tippin.me/@k3insell
+
 [^*]: Not really my legal name, but I’m using it everywhre.
