@@ -6,10 +6,6 @@ such as `electron`, `react`, `node` and `deno`. In free time I love to deal with
 biohacking things combined with neuroscience, almost in same leval as donating
 my savings to wallstreet on stock exchange.
 
-### Jay in the world
-
--  [Cryptocurrency Vendor](./VENDOR.md)
-
 https://tippin.me/@k3insell
 
 [^*]: Not really my legal name, but I’m using it everywhre.
