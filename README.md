@@ -6,8 +6,9 @@ such as `electron`, `react`, `node` and `deno`. In free time I love to deal with
 biohacking things combined with neuroscience, almost in same leval as donating
 my savings to wallstreet on stock exchange.
 
-### Pretty Good Privacy
-
+<details>
+  <summary>PGP Public Key</summary>
+  
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase Go 5.9.2 (darwin)
@@ -87,7 +88,12 @@ TzrOnUo24kf+Djo8Kr0601xyOxdvid2jUaoVIb0k5imFKVPlKxwmUvfNRT2W+yIK
 gj7qVdWtNOFZpKuhma6y9X+Ewi3ls8nYg966eUoORfj6ZnzarlEP704=
 =wHNP
 -----END PGP PUBLIC KEY BLOCK-----
+
 ```
+
+</details>
+
+
 
 https://tippin.me/@k3insell
 
