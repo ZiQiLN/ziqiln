@@ -88,13 +88,7 @@ TzrOnUo24kf+Djo8Kr0601xyOxdvid2jUaoVIb0k5imFKVPlKxwmUvfNRT2W+yIK
 gj7qVdWtNOFZpKuhma6y9X+Ewi3ls8nYg966eUoORfj6ZnzarlEP704=
 =wHNP
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
-
 </details>
-
-
-
-https://tippin.me/@k3insell
 
 [^*]: Not really my legal name, but I’m using it everywhre.
