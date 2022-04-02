@@ -1,4 +1,4 @@
-# Jay Whitewood[^*]
+# Jay Olan[^*]
 
 Bored Software Enginner with like 2-3 years of experience in building crap in
 JavaScript and TypeScript, explored pretty much JavaScript-related technologies
@@ -65,5 +65,3 @@ sCZWBlXgcnF3y4qfpcGd67zWCw==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
-
-[^*]: Not really my legal name, but I’m using it everywhre.
