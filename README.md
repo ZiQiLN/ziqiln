@@ -1,4 +1,4 @@
-# Jay Olan[^*]
+# Jay Olan
 
 Bored Software Enginner with like 2-3 years of experience in building crap in
 JavaScript and TypeScript, explored pretty much JavaScript-related technologies
