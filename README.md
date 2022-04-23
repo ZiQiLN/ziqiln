@@ -6,6 +6,8 @@ such as `electron`, `react`, `node` and `deno`. In free time I love to deal with
 biohacking things combined with neuroscience, almost in same leval as donating
 my savings to wallstreet on stock exchange.
 
+What's currently in scope? I'm building an harm-reduction application based on PsychonautWiki and Tripsitter, done pretty much research there over past 3 years and I such thing would be useful to help people with abuse of specific things.
+
 <details>
   <summary>PGP Public Key</summary>
   
