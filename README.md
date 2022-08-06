@@ -7,7 +7,7 @@ I love products that value 🔏 Privacy, 👤 Usability and 🎨 User Interface,
 Planning to start programming in `Go` after learning of architecture concepts in Node.js like Event Sourcing or CQRS, additionally it’s far from success because I still with to know better `DDD` architecture because I believe it can bring extreme benefits to some applications.
 
 <details>
-  <summary><code>pgp_for_pros</code></summary>
+  <summary><code>pretty-good-privacy</code></summary>
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
