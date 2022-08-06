@@ -1,15 +1,13 @@
-# Jakub Olan
+# keinsell
 
-Bored Software Enginner with like 2-3 years of experience in building crap in
-JavaScript and TypeScript, explored pretty much JavaScript-related technologies
-such as `electron`, `react`, `node` and `deno`. In free time I love to deal with
-biohacking things combined with neuroscience, almost in same leval as donating
-my savings to wallstreet on stock exchange.
+Self-claimed worst TypeScript Developer in this universe 🪐 (in others too, don’t worry). Building makeshift projects since 2017. I’m hooked into early access software and solutions which often lead to resolving problems with these solutions instead real problems of product (at least it’s fun). Behind programming I like whole concept around 🧬 neurochemistry and 👨‍🚀 psychonautics (which to [`neuronek`](https://github.com/keinsell/neuronek) - at fact I was experimenting more with architecture of software there instead real software but there will be time for everything.
 
-**What's currently in scope?** Slowly designing concept of harm-reduction application which maybe will be initally released this year.
+I love products that value 🔏 Privacy, 👤 Usability and 🎨 User Interface, and would love to join any initiative associated with 👥 Peer-To-Peer, ⛓️ Blockchain and other cutting-edge technologies (just to overfit them into product and destroy complete end-customer value of product)
+
+Planning to start programming in `Go` after learning of architecture concepts in Node.js like Event Sourcing or CQRS, additionally it’s far from success because I still with to know better `DDD` architecture because I believe it can bring extreme benefits to some applications.
 
 <details>
-  <summary>PGP Public Key</summary>
+  <summary><code>privacy_freak</code></summary>
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
