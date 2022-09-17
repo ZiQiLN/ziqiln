@@ -2,7 +2,7 @@
 
 Self-claimed worst TypeScript Developer in this universe 🪐 (in others too, don’t worry). Building makeshift projects since 2017. I’m hooked into early access software and solutions which often lead to resolving problems with these solutions instead real problems of product (at least it’s fun). Behind programming I like whole concept around 🧬 neurochemistry and 👨‍🚀 psychonautics.
 
-- 🌱 Working on one of most important projects of mine called [`neuroneek`](https://github.com/keinsell/neuroneek), which connect quite a lot of research on pharamacology and neuroscience around my peronal usecases. 
+🌱 Working on one of most important projects of mine called [`neuroneek`](https://github.com/keinsell/neuroneek), which connect quite a lot of research on pharamacology and neuroscience around my peronal usecases. 
 
 I love products that value 🔏 Privacy, 👤 Usability and 🎨 User Interface, and would love to join any initiative associated with 👥 Peer-To-Peer, ⛓️ Blockchain and other cutting-edge technologies (just to overfit them into product and destroy complete end-customer value of product)
 
