@@ -1,16 +1,14 @@
-# Jakub "keinsell" Olan
+# `@keinsell`
 
-Self-claimed worst TypeScript Developer in this universe 🪐 (in others too, don’t worry). Building makeshift projects since 2017. I’m hooked into early access software and solutions which often lead to resolving problems with these solutions instead real problems of product (at least it’s fun). Behind programming I like whole concept around 🧬 neurochemistry and 👨‍🚀 psychonautics.
+Hi! I'm Jakub Olan - a self-claimed worst TypeScript Developer in this universe who puts a minimal effort to push out his projects to outer world - always looking for ways to make things ✨ **Efficient** ✨ but sometimes it all ends up in a hell of perfectionism. Spreading love to early-accest software and cutting-edge solutions just to overfit them in product and ruin end-user value.
 
-Working on one of most important projects of mine called [`neuronek`](https://github.com/keinsell/neuroneek), which connect quite a lot of research on pharamacology and neuroscience around my peronal usecases - will be published soon.
+Behind my programming hobby I'm into 🏦 finances, 🧬 neurochemistry and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive about decreasing state of my bank account).
 
-I love products that value 🔏 Privacy, 👤 Usability and 🎨 User Interface, and would love to join any initiative associated with 👥 Peer-To-Peer, ⛓️ Blockchain and other cutting-edge technologies (just to overfit them into product and destroy complete end-customer value of product)
+My values when it comes to products are based on: 🔏 Privacy, 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad - people are just dumb.
 
-Planning to start programming in `Go` after learning of architecture concepts in Node.js like Event Sourcing or CQRS, additionally it’s far from success because I still with to know better `DDD` architecture because I believe it can bring extreme benefits to some applications.
+🧑‍🎓 **Currently Learning**: `Go`, `Domain-Driven Design`, `Event Storming`.
 
-#### Factsheet about me
-
-- 🌵 For some unknown reason **San Pedro** is favourite cactus of mine.
+*As some people may take my profile description seriously, it's hard to me to describe my achivements as they aren't satisfying to me - a lot of my work will still private forever as I do not like to release unfinished projects. However, being sarcastic about a lot of things is my language.*
 
 <details>
   <summary><code>pretty-good-privacy</code></summary>
