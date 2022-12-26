@@ -10,6 +10,10 @@ My values when it comes to products are based on: 🔏 Privacy, 👤 Usability a
 
 *As some people may take my profile description seriously, it's hard to me to describe my achivements as they aren't satisfying to me - a lot of my work will still private forever as I do not like to release unfinished projects. However, being sarcastic about a lot of things is my language.*
 
+```
+bc1qe8wruj9l6arf3r6zzf4x7z03a7jm53u4r883cd
+```
+
 <details>
   <summary><code>pretty-good-privacy</code></summary>
   
