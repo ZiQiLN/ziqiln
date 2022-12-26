@@ -10,10 +10,6 @@ My values when it comes to products are based on: 🔏 Privacy, 👤 Usability a
 
 *As some people may take my profile description seriously, it's hard to me to describe my achivements as they aren't satisfying to me - a lot of my work will still private forever as I do not like to release unfinished projects. However, being sarcastic about a lot of things is my language.*
 
-```
-bc1qe8wruj9l6arf3r6zzf4x7z03a7jm53u4r883cd
-```
-
 <details>
   <summary><code>pretty-good-privacy</code></summary>
   
@@ -71,5 +67,14 @@ VWyPalWv4hhFUEs93w6prDGyBQuhUIfgbnotHx8XhNcIMNxlPXQ19ntf0+Rz+Y7N
 sCZWBlXgcnF3y4qfpcGd67zWCw==
 =MvUH
 -----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+
+
+<details>
+  <summary><code>pretty-good-cash</code></summary>
+  
+```
+BTC: bc1qe8wruj9l6arf3r6zzf4x7z03a7jm53u4r883cd
 ```
 </details>
