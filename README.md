@@ -2,13 +2,11 @@
 
 Hi! I'm Jakub Olan - a self-claimed worst TypeScript Developer in this universe who puts a minimal effort to push out his projects to outer world - always looking for ways to make things ✨ **Efficient** ✨ but sometimes it all ends up in a hell of perfectionism. Spreading love to early-accest software and cutting-edge solutions just to overfit them in product and ruin end-user value.
 
-Behind my programming hobby I'm into 🏦 finances, 🧬 neurochemistry and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive about decreasing state of my bank account).
+Behind my programming hobby I'm into 🏦 finances, 🧬 neurochemistry and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive in decreasing state of my bank account).
 
 My values when it comes to products are based on: 🔏 Privacy, 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad - people are just dumb.
 
-🧑‍🎓 **Currently Learning**: `Go`, `Domain-Driven Design`, `Event Storming`.
-
-*As some people may take my profile description seriously, it's hard to me to describe my achivements as they aren't satisfying to me - a lot of my work will still private forever as I do not like to release unfinished projects. However, being sarcastic about a lot of things is my language.*
+> *As some people may take my profile description seriously, you should notice I'm sarcastic in many places and that's my language. As a lot of recriuters who googled this profile ended up complaining about me I just want to gently say "Go fuck yourself". If somebody got offended by my opinion I think that's a perfect example ya'll have no clue what you're doing. I would rather spend my life starving and coding open-source than earning tons of cash by writting crappy products. ~ Jay*
 
 <details>
   <summary><code>pretty-good-privacy</code></summary>
