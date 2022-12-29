@@ -4,9 +4,8 @@ Hi! I'm Jakub Olan - a self-claimed worst TypeScript Developer in this universe 
 
 Behind my programming hobby I'm into 🏦 finances, 🧬 neurochemistry and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive in decreasing state of my bank account).
 
-My values when it comes to products are based on: 🔏 Privacy, 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad - people are just dumb.
+My values when it comes to products are based on: 🔏 Privacy, 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad (people who are using them are *mostly* idiots and that's a big difference).
 
-> *As some people may take my profile description seriously, you should notice I'm sarcastic in many places and that's my language. As a lot of recriuters who googled this profile ended up complaining about me I just want to gently say "Go fuck yourself". If somebody got offended by my opinion I think that's a perfect example ya'll have no clue what you're doing. I would rather spend my life starving and coding open-source than earning tons of cash by writting crappy products. ~ Jay*
 
 <details>
   <summary><code>pretty-good-privacy</code></summary>
