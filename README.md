@@ -1,15 +1,5 @@
 # `@keinsell`
 
-Hi! I'm Jakub Olan - a self-claimed worst TypeScript Developer in this universe who puts a minimal effort to push out his projects to outer world - always looking for ways to make things ✨ **Efficient** ✨ but sometimes it all ends up in a hell of perfectionism. Spreading love to early-accest software and cutting-edge solutions just to overfit them in product and ruin end-user value.
-
-Behind my programming hobby I'm into 🏦 finances, 🧬 neurochemistry and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive in decreasing state of my bank account).
-
-My values when it comes to products are based on: 🔏 Privacy, 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad.
-
-
-<details>
-  <summary><code>pretty-good-privacy</code></summary>
-  
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase Go 5.9.2 (darwin)
@@ -65,13 +55,7 @@ sCZWBlXgcnF3y4qfpcGd67zWCw==
 =MvUH
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-</details>
-
-
-<details>
-  <summary><code>pretty-good-cash</code></summary>
   
 ```
-BTC: bc1qe8wruj9l6arf3r6zzf4x7z03a7jm53u4r883cd
+bc1qe8wruj9l6arf3r6zzf4x7z03a7jm53u4r883cd
 ```
-</details>
