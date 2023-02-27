@@ -61,7 +61,13 @@ sCZWBlXgcnF3y4qfpcGd67zWCw==
   
 </details>
 
+<details>
+  <summary>Better Than Cash (BTC)</summary>
   
 ```
 bc1qe8wruj9l6arf3r6zzf4x7z03a7jm53u4r883cd
 ```
+  
+</details>
+  
+
