@@ -1,5 +1,11 @@
 # `@keinsell`
 
+Hi! I'm Jakub Olan - a self-claimed worst TypeScript Developer in this universe who puts a minimal effort to push out his projects to outer world - always looking for ways to make things ✨ **Efficient** ✨ but sometimes it all ends up in a hell of perfectionism. Spreading love to early-access software and cutting-edge solutions just to overfit them in product and ruin end-user value, it's always fun to say "Been there, Done that" before somebody else.
+
+Behind my programming hobby I'm into 🏦 finances, 🧬 pharamacology and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive in decreasing state of my bank account).
+
+My values when it comes to products are based on: 🔏 Privacy, 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad - game it's about technology but about situational usage of blocks in right moment to gain overhead.
+
 <details>
   <summary>Pretty Good Privacy (PGP)</summary>
   
