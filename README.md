@@ -6,6 +6,10 @@ Behind my programming hobby I'm into 🏦 finances, 🧬 pharamacology and 👨�
 
 My values when it comes to products are based on: 🔏 Privacy, 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad - game it's about technology but about situational usage of blocks in right moment to gain overhead.
 
+```
+keinsell.eth
+```
+
 <details>
   <summary>Pretty Good Privacy (PGP)</summary>
   
