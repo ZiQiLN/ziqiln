@@ -6,8 +6,6 @@ Behind my programming hobby I'm into 🏦 finances, 🧬 pharamacology and 👨�
 
 My values when it comes to products are based on: 🔏 Privacy (Cypherpunks are lovely), 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad - game it noy about using as much tech as it's possible but about using it when it fits and provides real benefit.
 
-> “He who has a why to live for can bear almost any how.” ~ Friedrich Nietzsche
-
 <details>
   <summary>Pretty Good Privacy (PGP)</summary>
   
@@ -77,5 +75,8 @@ bc1qe8wruj9l6arf3r6zzf4x7z03a7jm53u4r883cd
 ```
   
 </details>
+
+
+> “He who has a why to live for can bear almost any how.” ~ Friedrich Nietzsche
   
 
