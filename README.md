@@ -1,13 +1,17 @@
 # `@keinsell`
 
-Hi! I'm Jakub Olan - a self-claimed worst TypeScript Developer in this universe who puts a minimal effort to push out his projects to outer world - always looking for ways to make things ✨ **Efficient** ✨ but sometimes it all ends up in a hell of perfectionism. Spreading love to early-access software and cutting-edge solutions just to overfit them in product and ruin end-user value, it's always fun to say "Been there, Done that" before somebody else.
+Hola 👋,
+
+I'm TypeScript Developer who's trying to make things ✨ **Efficient** ✨ as much as they should be - having on mind one aspect which really matter - TIME, not really fan of state of software in current years where we're pushing out shit tons of code and releasing unfinished product is somehow acceptable which drives me to hell of perfectionism. Spreading love to early-access software and cutting-edge solutions just to overfit them in product and ruin end-user value, it's always fun to say "Been there, Done that" before somebody else.
 
 Behind my programming hobby I'm into 🏦 finances, 🧬 pharamacology and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive in decreasing state of my bank account).
 
-My values when it comes to products are based on: 🔏 Privacy (Cypherpunks are lovely), 👤 Usability and 🎨 User Interface (sometimes ⚡ Performance). I love and hate "innovative" technologies such as ⛓️ Blockchain because they are commonly overfitten into product which kills end-customer value, however this doesn't mean these technologies are bad - game it noy about using as much tech as it's possible but about using it when it fits and provides real benefit.
+We live by the rules, so that's why I have respect for 🔏 Privacy, 🎨 User Experience/User Interface and ⚡ Performance when it comes to products, and when it comes to software and code I trying to find ✨ **Efficient** ✨values for invididual problems as that's what engineering is - in my way software should well-structured and designed, hiding all of the complex things behind abstraction - however, it's like common sense to do that.
+
+> “He who has a why to live for can bear almost any how.” ~ Friedrich Nietzsche
 
 <details>
-  <summary>Pretty Good Privacy (PGP)</summary>
+  <summary>Pretty Good Privacy</summary>
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -66,17 +70,5 @@ sCZWBlXgcnF3y4qfpcGd67zWCw==
 ```
   
 </details>
-
-<details>
-  <summary>Better Than Cash (BTC)</summary>
-  
-```
-bc1qe8wruj9l6arf3r6zzf4x7z03a7jm53u4r883cd
-```
-  
-</details>
-
-
-> “He who has a why to live for can bear almost any how.” ~ Friedrich Nietzsche
   
 
