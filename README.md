@@ -11,7 +11,7 @@ We live by the rules, so that's why I have respect for 🔏 Privacy, 🎨 User E
 > “He who has a why to live for can bear almost any how.” ~ Friedrich Nietzsche
 
 <details>
-  <summary>Pretty Good Privacy `CDCC 8D01 6613 C83B C07A D23F D116 FAF3 ED69 D5B8`</summary>
+  <summary>Pretty Good Privacy</summary>
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
