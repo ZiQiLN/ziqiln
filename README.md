@@ -5,8 +5,6 @@ I'm TypeScript Developer who's trying to make things ✨ **Efficient** ✨ as mu
 Behind my programming hobby I'm into 🏦 finances, 🧬 pharamacology and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive in decreasing state of my bank account).
 
 We live by the rules, so that's why I have respect for 🔏 Privacy, 🎨 User Experience/User Interface and ⚡ Performance when it comes to products, and when it comes to software and code I trying to find ✨ **Efficient** ✨values for invididual problems as that's what engineering is - in my way software should well-structured and designed, hiding all of the complex things behind abstraction - however, it's like common sense to do that.
-
-> "Software is like chemistry, you gonna blow your ass when cooking meth from time to time" ~ My brain at 3AM
  
 > “He who has a why to live for can bear almost any how.” ~ Friedrich Nietzsche
 
