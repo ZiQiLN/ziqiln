@@ -1,10 +1,10 @@
-Hola 👋,
+"Maddest Developer of Industry"
 
-I'm TypeScript Developer who's trying to make things ✨ **Efficient** ✨ as much as they should be - having on mind one aspect which really matter - TIME, not really fan of state of software in current years where we're pushing out shit tons of code and releasing unfinished product is somehow acceptable which drives me to hell of perfectionism. Spreading love to early-access software and cutting-edge solutions just to overfit them in product and ruin end-user value, it's always fun to say "Been there, Done that" before somebody else.
+Navigating the tumultuous seas of modern software, I'm the developer who's perennially disgruntled with the state of abstraction and optimization. My mission is to craft resilient software that stands the test of time, beyond the ephemeral lifespan of today's typical applications. I'm a fervent advocate for 🔏 Privacy, 🎨 User Experience, and ✨ Efficiency, defending these principles as if they were my own.
 
-Behind my programming hobby I'm into 🏦 finances, 🧬 pharamacology and 👨‍🚀 psychonautics which aren't productive hobbies at all (I do not know how shorting Nasdaq Index in middle of bull market can be called productive but yeah it is at some point, productive in decreasing state of my bank account).
+As a TypeScript Developer, my aim is to infuse efficiency into every line of code, with a keen eye on the most critical aspect - TIME. I hold a critical view of the current software landscape, where churning out copious amounts of code and launching half-baked products has become the norm. This status quo propels me into the depths of perfectionism, as I indulge in early-access software and cutting-edge solutions, tweaking and twisting them until they break or shine, all for the sake of "Been there, Done that."
 
-We live by the rules, so that's why I have respect for 🔏 Privacy, 🎨 User Experience/User Interface and ⚡ Performance when it comes to products, and when it comes to software and code I trying to find ✨ **Efficient** ✨values for invididual problems as that's what engineering is - in my way software should well-structured and designed, hiding all of the complex things behind abstraction - however, it's like common sense to do that.
+Beyond the world of programming, I delve into 🏦 finances, 🧬 pharmacology, and 👨‍🚀 psychonautics - hobbies that may not scream productivity but offer me a diverse perspective. Whether it's shorting the Nasdaq in a bull market or exploring the mind's mysteries, these interests keep me rounded, albeit lighter in the wallet.
  
 > “He who has a why to live for can bear almost any how.” ~ Friedrich Nietzsche
 
