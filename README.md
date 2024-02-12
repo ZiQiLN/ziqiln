@@ -1,16 +1,3 @@
-"Maddest Developer of Industry"
-
-Navigating the tumultuous seas of modern software, I'm the developer who's perennially disgruntled with the state of abstraction and optimization. My mission is to craft resilient software that stands the test of time, beyond the ephemeral lifespan of today's typical applications. I'm a fervent advocate for 🔏 Privacy, 🎨 User Experience, and ✨ Efficiency, defending these principles as if they were my own.
-
-As a TypeScript Developer, my aim is to infuse efficiency into every line of code, with a keen eye on the most critical aspect - TIME. I hold a critical view of the current software landscape, where churning out copious amounts of code and launching half-baked products has become the norm. This status quo propels me into the depths of perfectionism, as I indulge in early-access software and cutting-edge solutions, tweaking and twisting them until they break or shine, all for the sake of "Been there, Done that."
-
-Beyond the world of programming, I delve into 🏦 finances, 🧬 pharmacology, and 👨‍🚀 psychonautics - hobbies that may not scream productivity but offer me a diverse perspective. Whether it's shorting the Nasdaq in a bull market or exploring the mind's mysteries, these interests keep me rounded, albeit lighter in the wallet.
- 
-> “He who has a why to live for can bear almost any how.” ~ Friedrich Nietzsche
-
-<details>
-  <summary>Pretty Good Privacy</summary>
-  
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -43,7 +30,5 @@ iVj0jUN0EmUceu/SG2SaGCxtLWCoUnwGO7k4InRckLv7qrLOU4YY/iDZEVkGO2j7
 =gbOV
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-  
-</details>
   
 
