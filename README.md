@@ -15,4 +15,4 @@ hyjUQ7Zrs6uxKvOz47A7u+71Gu4+AZAE
 -----END PGP PUBLIC KEY BLOCK-----
 ```
   
-
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="15" />]([https://stackoverflow.com/users/10927329/valentin-briand](https://stackoverflow.com/users/10339199/keinsell))
