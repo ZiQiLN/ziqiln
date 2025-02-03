@@ -1,4 +1,1 @@
-Passionate software engineer who is connecting all of the
-domains of personal life into one place, thinking and
-thinkering software and tools to empower ones life in a
-pragmatic and ergonomic manner.
+Computer science enthusiast with a passion for monospaced web designs, knowledge graphs, software architecture, programming languages, and decentralization. Skilled in crafting efficient and scalable solutions, with a focus on innovative and user-friendly designs.
